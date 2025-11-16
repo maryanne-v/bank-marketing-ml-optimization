@@ -9,7 +9,7 @@
 By identifying high-potential customers, marketing teams can target outreach efficiently, reduce costs, and increase campaign success rates.
 ---
 
-## 📊 Dataset
+# Dataset
 - **Source:** [UCI Machine Learning Repository – Bank Marketing Dataset](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)  
 - **File used:** `bank-additional-full.csv`  
 - **Records:** 41,188  
